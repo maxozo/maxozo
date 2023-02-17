@@ -5,7 +5,7 @@ I have a background in medical engineering, bioinformatics, genomics, proteomics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxozo/)
-![Google Scholar](index.png | width=100)
+![Google Scholar]<img src="https://github.com/maxozo/maxozo/blob/main/index.png"  width="100">
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maxozo&theme=dark&hide_border=false)<br/>
 
