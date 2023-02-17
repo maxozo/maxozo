@@ -5,13 +5,13 @@ I have a background in medical engineering, bioinformatics, genomics, proteomics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxozo/)
-[<img src="https://github.com/maxozo/maxozo/blob/main/index.png"  width="100">](https://scholar.google.com/citations?user=9fwjg3MAAAAJ&hl=en&authuser=1)
+[<img style="float: right;" src="https://github.com/maxozo/maxozo/blob/main/index.png"  width="100">](https://scholar.google.com/citations?user=9fwjg3MAAAAJ&hl=en&authuser=1)
 
-[<img src="https://github.com/maxozo/maxozo/blob/main/RG.png"  width="100">](https://www.researchgate.net/profile/Matiss-Ozols-2)
+[<img style="float: right;" src="https://github.com/maxozo/maxozo/blob/main/RG.png"  width="100">](https://www.researchgate.net/profile/Matiss-Ozols-2)
 
-[<img src="https://github.com/maxozo/maxozo/blob/main/sanger.png"  width="100">](https://www.sanger.ac.uk/person/ozols-matiss/)
+[<img style="float: right;" src="https://github.com/maxozo/maxozo/blob/main/sanger.png"  width="100">](https://www.sanger.ac.uk/person/ozols-matiss/)
 
-[<img src="https://github.com/maxozo/maxozo/blob/main/MCR.png"  width="100">](https://research.manchester.ac.uk/en/persons/matiss.ozols)
+[<img style="float: right;" src="https://github.com/maxozo/maxozo/blob/main/MCR.png"  width="100">](https://research.manchester.ac.uk/en/persons/matiss.ozols)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maxozo&theme=dark&hide_border=false)<br/>
