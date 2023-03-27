@@ -3,6 +3,12 @@ My focus is in human genetics and proteomics research, machine learning, deep le
 
 I have a background in medical engineering, bioinformatics, genomics, proteomics, dermatology. My PhD thesis was sponsored by Wallgreens Boots Alliance titled 'Bioinformatic identification of skin ageing biomarkers and putative matrikines' which has contributed significantly to commercial aspects and resulted in 5 international patents. 
 
+I have expereince in developing large scale scientific web applications and databases, please have a look at our 4 disctinct web apps hosted under out Manchester Proteome:
+1) Skin Proteome:https://www.manchesterproteome.manchester.ac.uk/#/Proteome
+2) Protein Locational Fingerprinter: https://www.manchesterproteome.manchester.ac.uk/#/MPLF
+3) Protein Susceptability Calculator: https://www.manchesterproteome.manchester.ac.uk/#/MPSC
+4) Protease Proteome: https://www.manchesterproteome.manchester.ac.uk/#/Protease_Proteome
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxozo/)
 [<img style="float: right;" src="https://github.com/maxozo/maxozo/blob/main/index.png"  width="100">](https://scholar.google.com/citations?user=9fwjg3MAAAAJ&hl=en&authuser=1)
