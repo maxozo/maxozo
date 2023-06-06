@@ -11,10 +11,11 @@ I have expereince in developing large scale scientific web applications and data
 3) Protein Susceptability Calculator: https://www.manchesterproteome.manchester.ac.uk/#/MPSC
 4) Protease Proteome: https://www.manchesterproteome.manchester.ac.uk/#/Protease_Proteome
 
-I also have developed a large scale single cell analysis pipelines that have been utilised throughout Wellcome Sanger Institute:
+I also have developed a large scale single cell, eQTL, colocalization analysis pipelines that have been utilised throughout Wellcome Sanger Institute:
 1) [scRNA analysis pipeline utilised in multiple groups in Sanger and externaly](https://github.com/wtsi-hgi/yascp)
 2) [Summary Statistics Data Visualiser allowing quick assesment of sequencing quality](https://github.com/wtsi-hgi/SSDV/tree/main)
 3) [eQTL analysis pipeline utilised by multiple groups](https://github.com/wtsi-hgi/eqtl)
+4) [Colocalization of eQTL signal and GWAS signal](https://github.com/wtsi-hgi/coloc.git)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxozo/)
