@@ -7,8 +7,8 @@ I have a background in medical engineering, bioinformatics, genomics, proteomics
 
 I have expereince in developing large scale scientific web applications and databases, please have a look at our 4 disctinct web apps hosted under our Manchester Proteome:
 1) Skin Proteome: https://www.manchesterproteome.manchester.ac.uk/#/Proteome
-2) Protein Locational Fingerprinter: https://www.manchesterproteome.manchester.ac.uk/#/MPLF
-3) Protein Susceptability Calculator: https://www.manchesterproteome.manchester.ac.uk/#/MPSC
+2) Protein Locational Fingerprinter: https://www.manchesterproteome.manchester.ac.uk/#/MPLF supported by [PLF package](https://github.com/maxozo/PLF)
+3) Protein Susceptability Calculator: https://www.manchesterproteome.manchester.ac.uk/#/MPSC supported by [MPC package]()
 4) Protease Proteome: https://www.manchesterproteome.manchester.ac.uk/#/Protease_Proteome
 
 I also have developed a large scale single cell, eQTL, colocalization analysis pipelines that have been utilised throughout Wellcome Sanger Institute:
